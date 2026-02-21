@@ -20,6 +20,7 @@ nav{
 .nav-title{
     font-weight: 800;
     font-size:45px;
+    margin-left: 100px;
 }
 
 .nav-highlighter{
@@ -59,6 +60,7 @@ nav ul a {
     ),url(
         "../images/header_bg.png"
     );
+    background-size:100px,100px,cover;
     background-repeat: no-repeat;
     background-position: top left, bottom right;
     
@@ -71,6 +73,7 @@ nav ul a {
     align-items: center;
     justify-content: space-between;
     margin : 0 35px 0 200px;
+    height :800px;
 }
 
 .banner-content{
@@ -97,6 +100,6 @@ nav ul a {
 
 .banner-profile-pic{
     width: 500px;
-    height: 600px;
+    height: 500px;
     
 }
